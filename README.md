@@ -1,3 +1,3 @@
 # 图床
-![](https://cdn.jsdelivr.net/gh/kingwx001/image/thread.png)
+cdn.jsdelivr + github搭建免费图床
 
